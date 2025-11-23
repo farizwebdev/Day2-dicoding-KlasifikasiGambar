@@ -5,6 +5,7 @@
 * **Nama:** Fariz Husain Albar
 * **Email:** khudnul88@gmail.com
 * **Dicoding ID:** fariztmgg
+* **Tahun: ** 2023
 ---
 *Dibuat untuk memenuhi submission Dicoding Indonesia.*
 
