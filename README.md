@@ -62,7 +62,3 @@ Model dilatih dengan konfigurasi berikut:
 3.  Upload file notebook tersebut.
 4.  Jalankan setiap sel kode secara berurutan (`Runtime` > `Run all`).
 5.  Pada tahap akhir, Anda dapat mengunggah gambar tangan Anda sendiri untuk diuji oleh model.
-
-## 📂 Struktur Direktori Data (Otomatis)
-
-Script akan secara otomatis mengunduh dan mengekstrak dataset dengan struktur berikut:
