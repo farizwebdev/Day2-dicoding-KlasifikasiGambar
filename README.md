@@ -1,6 +1,6 @@
-# Rock Paper Scissors Image Classification ✊✋✌️
+# Klasifikasi Gambar Kertas Batu Gunting ✊✋✌️
 
-## Author
+## Penulis
 
 * **Nama:** Fariz Husain Albar
 * **Email:** khudnul88@gmail.com
