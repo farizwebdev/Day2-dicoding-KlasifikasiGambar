@@ -20,7 +20,7 @@ Model ini dilatih menggunakan dataset *Rock-Paper-Scissors* yang disediakan oleh
 * **Image Augmentation:** Menggunakan `ImageDataGenerator` untuk memperkaya data latih (rotasi, *shear*, *horizontal flip*, dll).
 * **Model Architecture:** Menggunakan Sequential CNN dengan layer Conv2D, MaxPooling2D, dan Dropout.
 * **Optimizer:** Menggunakan `RMSprop`.
-* **Custom Callback:** Pelatihan otomatis berhenti jika akurasi pelatihan dan validasi melampaui **97%** untuk mencegah *overfitting* dan menghemat waktu komputasi.
+* **Custom Callback:** Pelatihan otomatis berhenti jika akurasi pelatihan dan validasii melampaui **97%** untuk mencegah *overfitting* dan menghemat waktu komputasi.
 
 ## Teknologi yang Digunakan
 
