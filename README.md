@@ -1,4 +1,4 @@
-# Klasifikasi Gambar Kertas Batu Gunting ✊✋✌️
+# Klasifikasi Gambar Kertas Batu Gunting ✋✊✌️
 
 ## Penulis
 
