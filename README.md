@@ -34,7 +34,7 @@ Model ini dilatih menggunakan dataset *Rock-Paper-Scissors* yang disediakan oleh
 
 ## Arsitektur Model
 
-Model dibangun menggunakan pendekatan *Sequential* dengan rincian layer sebagai berikut:
+Modell dibangun menggunakan pendekatan *Sequential* dengan rincian layer sebagai berikut:
 
 1.  **Conv2D** (32 filters) + MaxPooling2D
 2.  **Conv2D** (64 filters) + MaxPooling2D
