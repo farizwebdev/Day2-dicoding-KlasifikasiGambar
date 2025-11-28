@@ -32,7 +32,7 @@ Model ini dilatih menggunakan dataset *Rock-Paper-Scissors* yang disediakan oleh
     * `sklearn` (Splitting Dataset)
     * `google.colab` (Handling file upload di Colab)
 
-## Arsitektur Model
+## Arsitektur Modell
 
 Modell dibangun menggunakan pendekatan *Sequential* dengan rincian layer sebagai berikut:
 
