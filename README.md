@@ -1,6 +1,6 @@
 # Klasifikasi Gambar Kertas Batu Gunting ✋✊✌️
 
-## Penuli
+## Penulis
 
 * **Nama:** Fariz Husain Albar
 * **Email:** khudnul88@gmail.com
