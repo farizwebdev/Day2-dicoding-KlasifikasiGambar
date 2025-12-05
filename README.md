@@ -61,4 +61,4 @@ Model dilatih dengan konfigurasi berikut:
 2.  Buka [Google Colab](https://colab.research.google.com/).
 3.  Upload file notebook tersebut.
 4.  Jalankan setiap sel kode secara berurutan (`Runtime` > `Run all`).
-5.  Pada tahap akhir, Anda dapat mengunggah gambar tangan Anda sendiri untuk diuji oleh model.
+5.  Pada tahap akhir, Kamu dapat mengunggah gambar tangan Anda sendiri untuk diuji oleh model.
