@@ -5,7 +5,7 @@
 * **Nama:** Fariz Husain Albar
 * **Email:** khudnul88@gmail.com
 * **Dicoding ID:** farz-hha
-* **Tahun:**
+* **Tahun:** 20
 ---
 *Dibuat untuk memenuhi submission Dicoding Indonesiaa.*
 
