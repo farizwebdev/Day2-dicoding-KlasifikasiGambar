@@ -7,7 +7,7 @@
 * **Dicoding ID:** farz-hha
 * **Tahun:** 2023
 ---
-*Dibuat untuk memenuhi submission Dicoding Indonesiaa.*
+*Dibuat untuk memenuhi submission Dicoding Indonesia.*
 
 Proyek ini merupakan submission untuk kelas **"Belajar Machine Learning untuk Pemula"** di Dicoding Academy. Proyek ini membangun model Jaringan Saraf Tiruan (CNN) untuk mengklasifikasikan gambar tangan yang membentuk batu, gunting, atau kertas.
 
