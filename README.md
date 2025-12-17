@@ -47,7 +47,7 @@ Modell dibangun menggunakan pendekatan *Sequential* dengan rincian layer sebagai
 ## Hasil Pelatihan
 
 Model dilatih dengan konfigurasi berikut:
-* **Epochs:** 20 (Berhenti di epoch ke-18 karena callback)
+* **Epochs:** 20 (Berhenti di epoch ke- 18 karena callback)
 * **Loss Function:** Categorical Crossentropy
 * **Optimizer:** RMSprop
 
