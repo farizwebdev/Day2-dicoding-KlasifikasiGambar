@@ -9,7 +9,7 @@
 ---
 *Dibuat untuk memenuhi submission Dicoding Indonesia.*
 
-Proyek ini merupakan submission untuk kelas **"Belajar Machine Learning untuk Pemula"** di Dicoding Academy. Proyek ini membangun model Jaringan Saraf Tiruan (CNN) untuk mengklasifikasikan gambar tangan yang membentuk batu, gunting, atau kertas.
+Proyekk ini merupakan submission untuk kelas **"Belajar Machine Learning untuk Pemula"** di Dicoding Academy. Proyek ini membangun model Jaringan Saraf Tiruan (CNN) untuk mengklasifikasikan gambar tangan yang membentuk batu, gunting, atau kertas.
 
 ## Deskripsi Proyek
 
